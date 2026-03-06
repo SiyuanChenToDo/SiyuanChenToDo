@@ -14,9 +14,10 @@
 
 <div align="center">
 
-## 🐍 贡献贪吃蛇
+## 📊 贡献统计
 
-<img src="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/output/github-snake.gif" width="100%" alt="snake" />
+<img src="https://github-readme-stats.vercel.app/api?username=SiyuanChenToDo&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SiyuanChenToDo&theme=default&hide_border=true" width="48%" />
 
 </div>
 
