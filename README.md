@@ -16,7 +16,7 @@
 
 ## 🐍 贡献贪吃蛇
 
-[![GitHub Snake](https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/main/out/github-snake.svg)](https://github.com/SiyuanChenToDo)
+![](https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/main/out/github-snake.svg)
 
 </div>
 
@@ -26,8 +26,9 @@
 
 ## 📊 统计数据
 
-![](https://github-readme-stats.vercel.app/api?username=SiyuanChenToDo&theme=default&hide_border=true&bg_color=ffffff&title_color=333&text_color=333&icon_color=0366d6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SiyuanChenToDo&theme=default&hide_border=true&bg_color=ffffff&title_color=333&text_color=333&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=SiyuanChenToDo&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=333&text_color=333&icon_color=0366d6)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SiyuanChenToDo&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=333&text_color=333)
 
 </div>
 
@@ -94,29 +95,7 @@
 
 ## 🏆 成就展示
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SiyuanChenToDo&theme=flat&no-frame=true&margin-w=20&row=2&column=3)](https://github.com/SiyuanChenToDo)
-
-</div>
-
----
-
-<div align="center">
-
-## 📁 精选项目
-
-<a href="https://github.com/SiyuanChenToDo/resume-template">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SiyuanChenToDo&repo=resume-template&theme=default&hide_border=true&bg_color=ffffff&title_color=333&text_color=333&icon_color=0366d6" alt="Resume Template">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 活动图
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SiyuanChenToDo&bg_color=ffffff&color=333&line=0366d6&point=ff4500&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-profile-trophy.vercel.app/?username=SiyuanChenToDo&theme=flat&no-frame=true&margin-w=20&row=2&column=3)
 
 </div>
 
@@ -149,32 +128,8 @@
 
 <div align="center">
 
-## 📈 贡献热度图
-
-[![GitHub Graph](https://ghchart.rshah.org/0366d6/SiyuanChenToDo)](https://github.com/SiyuanChenToDo)
-
-</div>
-
----
-
-<div align="center">
-
 ### ⭐ 如果觉得有帮助，欢迎 Star！⭐
 
 Made with ❤️ by SiyuanChenToDo
-
-</div>
-
----
-
-<div align="center">
-
-## 🎵 现在正在做什么
-
-<!--START_SECTION:waka-->
-```text
-No activity tracked
-```
-<!--END_SECTION:waka-->
 
 </div>

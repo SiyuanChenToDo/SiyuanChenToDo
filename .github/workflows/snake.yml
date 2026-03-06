@@ -2,7 +2,7 @@ name: Generate-Snake-Animation
 
 on:
   schedule:
-    - cron: "0 12 * * *" # every 6 hours
+    - cron: "0 0 * * *" # 每天运行一次
   workflow_dispatch:
 
 jobs:
@@ -16,7 +16,7 @@ jobs:
         with:
           persist-credentials: false
           fetch-depth: 0
-      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@v3
         with:
@@ -24,16 +24,15 @@ jobs:
           outputs: |
             out/github-snake.svg
             out/github-snake-dark.svg?palette=github-dark
-            out/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
       - name: Commit files
         run: |
           git add out/
           git config --local user.email "bot@nn.ci"
           git config --local user.name "Bot"
-          git commit --allow-empty -m "update github-contribution-grid-snake.svg" -a
+          git commit --allow-empty -m "update github-contribution-grid-snake.svg" -a || echo "No changes to commit"
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
