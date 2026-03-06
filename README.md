@@ -20,10 +20,11 @@
 ### 🐍 Contribution Snake
 
 <div align="center">
+  <!-- 强制刷新：添加时间戳参数避免缓存 -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/output/github-snake-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/output/github-snake.svg?v=2" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/output/github-snake-dark.svg?v=2" />
   </picture>
 </div>
 
@@ -71,7 +72,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SiyuanChenToDo&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
+<!-- 使用 hide=contribs 隐藏贡献图标，避免碎片问题 -->
+<img src="https://github-readme-stats.vercel.app/api?username=SiyuanChenToDo&show_icons=true&theme=default&hide_border=true&hide=contribs&rank_icon=github" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=SiyuanChenToDo&theme=default&hide_border=true" width="48%" />
 
 </div>
