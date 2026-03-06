@@ -91,10 +91,10 @@
 
 <div align="center">
 
-<!-- 横排展示：Profile Summary Cards + 连续贡献统计 -->
-<img width="49%" src="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/main/profile-summary-card-output/default/3-stats.svg" />
+<!-- 横排展示：Top Languages + Stats，使用 dark 主题 -->
+<img width="49%" src="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/main/profile-summary-card-output/dark/1-repos-per-language.svg" />
 &nbsp;
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SiyuanChenToDo&hide_border=true&theme=default" />
+<img width="49%" src="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/main/profile-summary-card-output/dark/3-stats.svg" />
 
 </div>
 
