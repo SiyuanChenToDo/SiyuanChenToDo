@@ -72,9 +72,13 @@
 
 <div align="center">
 
-<!-- 使用 hide=contribs 隐藏贡献图标，避免碎片问题 -->
-<img src="https://github-readme-stats.vercel.app/api?username=SiyuanChenToDo&show_icons=true&theme=default&hide_border=true&hide=contribs&rank_icon=github" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SiyuanChenToDo&theme=default&hide_border=true" width="48%" />
+<!-- GitHub Stats - 使用可靠的简洁配置 -->
+<a href="https://github.com/SiyuanChenToDo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SiyuanChenToDo&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true" />
+</a>
+<a href="https://github.com/SiyuanChenToDo">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SiyuanChenToDo&theme=transparent&hide_border=true" />
+</a>
 
 </div>
 
