@@ -16,7 +16,7 @@
 
 ## 🐍 贡献贪吃蛇
 
-![](https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/main/out/github-snake.svg)
+![](https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/main/assets/github-snake.svg)
 
 </div>
 
