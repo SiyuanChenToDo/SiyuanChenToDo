@@ -8,10 +8,12 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
         with:
           persist-credentials: false
 
@@ -23,15 +25,8 @@ jobs:
             assets/github-snake.svg
             assets/github-snake-dark.svg?palette=github-dark
 
-      - name: Commit files
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add assets/
-          git commit -m "Update snake animation" || echo "No changes to commit"
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+      - name: Commit and push
+        uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: "Update snake animation"
           branch: main
