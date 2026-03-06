@@ -14,12 +14,12 @@
 
 <div align="center">
 
-## 🏔️ 3D 贡献图
+## 🐍 贡献贪吃蛇
 
 </div>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution" />
+  <img src="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/output/github-snake.gif" width="100%" alt="snake" />
 </div>
 
 

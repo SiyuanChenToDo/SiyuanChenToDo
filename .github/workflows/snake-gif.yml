@@ -1,0 +1,41 @@
+name: Generate-Snake-GIF
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # 生成 GIF 版本（更稳定，无越界问题）
+      - name: Generate Snake GIF
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.gif
+            dist/github-snake.svg?palette=github-light
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+          commit_message: "Update snake animation [skip ci]"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
