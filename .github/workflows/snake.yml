@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            assets/github-snake.svg?palette=github-light
-            assets/github-snake-dark.svg?palette=github-dark
+            assets/github-snake.svg?palette=github-light&y_scale=7
+            assets/github-snake-dark.svg?palette=github-dark&y_scale=7
 
       - name: Commit and push
         uses: stefanzweifel/git-auto-commit-action@v4
