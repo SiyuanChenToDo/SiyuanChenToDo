@@ -16,6 +16,8 @@
 
 ## 🐍 贡献贪吃蛇
 
+</div>
+
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
@@ -31,8 +33,6 @@
     width="100%"
   >
 </picture>
-
-</div>
 
 
 <div align="center">
