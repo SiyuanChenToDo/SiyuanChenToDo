@@ -15,30 +15,21 @@
 
 </div>
 
-### About Me
+---
 
-```javascript
-const developer = {
-  name: "SiyuanChenToDo",
-  role: "Full Stack Developer",
-  location: "China",
-  status: "Continuously learning and building...",
+### 🐍 Contribution Snake
 
-  skills: {
-    languages: ["C", "C++", "Python", "JavaScript", "Java"],
-    frontend: ["HTML5", "CSS3", "React", "Vue.js"],
-    backend: ["Node.js", "MySQL", "MongoDB", "Redis"],
-    tools: ["Git", "Docker", "Linux", "VS Code"],
-    cloud: ["AWS", "Azure", "GCP"]
-  },
-
-  motto: "Stay hungry, stay foolish."
-};
-```
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/output/github-snake-dark.svg" />
+  </picture>
+</div>
 
 ---
 
-### Tech Stack
+### 💻 Tech Stack
 
 <div align="center">
 
@@ -76,19 +67,7 @@ const developer = {
 
 ---
 
-### Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
----
-
-### GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
 
@@ -99,19 +78,9 @@ const developer = {
 
 ---
 
-### My Philosophy
-
 <div align="center">
 
-> *"Stay hungry, stay foolish. Keep learning, keep growing."*
-
-</div>
-
----
-
-<div align="center">
-
-### Connect with Me
+### 📮 Connect with Me
 
 <p>
   <a href="https://github.com/SiyuanChenToDo/SiyuanChenToDo/issues">
