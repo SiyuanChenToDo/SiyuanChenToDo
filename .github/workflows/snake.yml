@@ -13,9 +13,11 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          # 使用自定义配色确保所有贡献级别都可见
+          # color_dots: 从少到多贡献的颜色（5个级别）
           outputs: |
-            dist/github-snake.svg?palette=github-light
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            dist/github-snake-dark.svg?palette=github-dark&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
 
       - uses: crazy-max/ghaction-github-pages@v3
         with:
