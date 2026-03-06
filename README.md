@@ -93,26 +93,6 @@
 
 <div align="center">
 
-## 🏆 成就展示
-
-![](https://github-profile-trophy.vercel.app/?username=SiyuanChenToDo&theme=flat&no-frame=true&margin-w=20&row=2&column=3)
-
-</div>
-
----
-
-<div align="center">
-
-## 💬 访客统计
-
-![](https://profile-counter.glitch.me/SiyuanChenToDo/count.svg)
-
-</div>
-
----
-
-<div align="center">
-
 ## 📮 联系我
 
 <a href="mailto:your.email@example.com">
