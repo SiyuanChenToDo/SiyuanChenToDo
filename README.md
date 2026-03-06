@@ -72,10 +72,13 @@
 
 <div align="center">
 
-<!-- 使用 Profile Summary Cards（已配置工作流，更稳定） -->
-<img width="49%" src="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/main/profile-summary-card-output/default/3-stats.svg" />
-&nbsp;
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SiyuanChenToDo&hide_border=true&theme=default" />
+<!-- 上：Profile Summary Cards（已配置工作流，更稳定） -->
+<img width="60%" src="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/main/profile-summary-card-output/default/3-stats.svg" />
+
+<br/><br/>
+
+<!-- 下：连续贡献统计 -->
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=SiyuanChenToDo&hide_border=true&theme=default" />
 
 </div>
 
