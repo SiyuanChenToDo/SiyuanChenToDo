@@ -20,19 +20,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-## 📊 统计数据
-
-![](https://github-readme-stats.vercel.app/api?username=SiyuanChenToDo&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=333&text_color=333&icon_color=0366d6)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SiyuanChenToDo&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=333&text_color=333)
-
-</div>
-
----
 
 <div align="center">
 
