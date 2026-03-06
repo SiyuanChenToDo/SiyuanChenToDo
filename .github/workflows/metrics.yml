@@ -1,0 +1,36 @@
+# GitHub Metrics 数据面板（可选）
+# 使用前需要：
+# 1. 创建 Classic Token（必须是 ghp_ 开头的 Classic Token，不能用 Fine-grained）
+# 2. 在仓库 Settings → Secrets → Actions 添加 METRICS_TOKEN
+# 3. 取消下面的注释启用此工作流
+
+# name: Metrics
+# on:
+#   schedule: [{cron: "0 0 * * *"}]
+#   workflow_dispatch:
+#   push: {branches: ["master", "main"]}
+
+# jobs:
+#   github-metrics:
+#     runs-on: ubuntu-latest
+#     permissions:
+#       contents: write
+#     steps:
+#       - uses: lowlighter/metrics@latest
+#         with:
+#           token: ${{ secrets.METRICS_TOKEN }}
+#           user: SiyuanChenToDo
+#           template: classic
+#           base: header, activity, community, repositories, metadata
+#           config_timezone: Asia/Shanghai
+#           config_padding: 6%
+#           optimize: svg
+#           experimental_features: --optimize-svg
+#           plugin_isocalendar: yes
+#           plugin_isocalendar_duration: half-year
+#           plugin_languages: yes
+#           plugin_languages_details: bytes-size, percentage
+#           plugin_languages_limit: 6
+#           plugin_lines: yes
+#           plugin_stargazers: yes
+#           plugin_stargazers_charts_type: chartist
