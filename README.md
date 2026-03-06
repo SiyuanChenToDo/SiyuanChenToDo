@@ -14,12 +14,13 @@
 
 <div align="center">
 
-## 🐍 贡献贪吃蛇
+## 🏔️ 3D 贡献图
 
 </div>
 
-<img src="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/output/github-snake-dark.svg#gh-dark-mode-only" width="100%" alt="snake"/>
-<img src="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/output/github-snake.svg#gh-light-mode-only" width="100%" alt="snake"/>
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D Contribution" />
+</div>
 
 
 <div align="center">
