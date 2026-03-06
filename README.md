@@ -1,51 +1,51 @@
-&lt;div align="center"&gt;
+<div align="center">
 
 ### Hi there, I'm SiyuanChenToDo 👋
 
-&lt;/div&gt;
+</div>
 
-&lt;div align="center"&gt;
+<div align="center">
 
-![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=333&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile ;持续学习+|+热爱编程+|+分享知识)
+![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=333&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+GitHub+profile;Keep+Learning+%7C+Passionate+about+Coding+%7C+Sharing+Knowledge)
 
-&lt;/div&gt;
+</div>
 
 ---
 
-&lt;div align="center"&gt;
+<div align="center">
 
 ## 🐍 贡献贪吃蛇
 
-&lt;picture&gt;
-  &lt;source 
+<picture>
+  <source 
     media="(prefers-color-scheme: dark)" 
     srcset="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/output/github-snake-dark.svg"
-  &gt;
-  &lt;source 
+  >
+  <source 
     media="(prefers-color-scheme: light)" 
     srcset="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/output/github-snake.svg"
-  &gt;
-  &lt;img 
+  >
+  <img 
     alt="github contribution grid snake animation" 
     src="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/output/github-snake.svg"
     style="max-width: 100%; height: auto;"
-  &gt;
-&lt;/picture&gt;
+  >
+</picture>
 
-&lt;/div&gt;
+</div>
 
 
-&lt;div align="center"&gt;
+<div align="center">
 
 ## 🔥 连续贡献
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SiyuanChenToDo&theme=default&hide_border=true&bg_color=ffffff&dates=333&currStreakLabel=0366d6&sideLabels=555&sideNums=0366d6&currStreakNum=0366d6&fire=ff4500 )](https://github.com/SiyuanChenToDo )
 
-&lt;/div&gt;
+</div>
 
 ---
 
-&lt;div align="center"&gt;
+<div align="center">
 
 ## 💻 技术栈
 
@@ -78,39 +78,39 @@
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white )
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white )
 
-&lt;/div&gt;
+</div>
 
 ---
 
-&lt;div align="center"&gt;
+<div align="center">
 
 ## 🛠️ 技能图标
 
-![skills](https://skillicons.dev/icons?perline=10&i=bash ,c,cpp,docker,git,github,java,js,linux,md,mysql,nginx,python,react,redis,ubuntu,vim,vscode,html,css)
+![skills](https://skillicons.dev/icons?perline=10&i=bash,c,cpp,docker,git,github,java,js,linux,md,mysql,nginx,python,react,redis,ubuntu,vim,vscode,html,css)
 
-&lt;/div&gt;
+</div>
 
 ---
 
-&lt;div align="center"&gt;
+<div align="center">
 
 ## 📮 联系我
 
-&lt;a href="mailto:your.email@example.com"&gt;
-    &lt;img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white " alt="Email"&gt;
-&lt;/a&gt;
-&lt;a href="https://github.com/SiyuanChenToDo " target="_blank"&gt;
-    &lt;img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white " alt="GitHub"&gt;
-&lt;/a&gt;
+<a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white " alt="Email">
+</a>
+<a href="https://github.com/SiyuanChenToDo " target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white " alt="GitHub">
+</a>
 
-&lt;/div&gt;
+</div>
 
 ---
 
-&lt;div align="center"&gt;
+<div align="center">
 
 ### ⭐ 如果觉得有帮助，欢迎 Star！⭐
 
 Made with ❤️ by SiyuanChenToDo
 
-&lt;/div&gt;
+</div>
