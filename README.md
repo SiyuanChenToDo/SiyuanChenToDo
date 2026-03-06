@@ -72,13 +72,10 @@
 
 <div align="center">
 
-<!-- GitHub Stats - 使用可靠的简洁配置 -->
-<a href="https://github.com/SiyuanChenToDo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SiyuanChenToDo&theme=transparent&hide_border=true&show_icons=true&include_all_commits=true" />
-</a>
-<a href="https://github.com/SiyuanChenToDo">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SiyuanChenToDo&theme=transparent&hide_border=true" />
-</a>
+<!-- GitHub Stats - 禁用图标避免碎片 -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SiyuanChenToDo&hide_icons=true&hide_border=true&theme=default" />
+&nbsp;
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SiyuanChenToDo&hide_border=true&theme=default" />
 
 </div>
 
