@@ -28,7 +28,7 @@
   <img 
     alt="github contribution grid snake animation" 
     src="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/output/github-snake.svg"
-    style="max-width: 100%; height: auto;"
+    width="100%"
   >
 </picture>
 
