@@ -72,8 +72,8 @@
 
 <div align="center">
 
-<!-- GitHub Stats - 禁用图标避免碎片 -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SiyuanChenToDo&hide_icons=true&hide_border=true&theme=default" />
+<!-- 使用 Profile Summary Cards（已配置工作流，更稳定） -->
+<img width="49%" src="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/main/profile-summary-card-output/default/3-stats.svg" />
 &nbsp;
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SiyuanChenToDo&hide_border=true&theme=default" />
 
