@@ -1,4 +1,4 @@
-name: Generate-Snake-GIF
+name: Generate-Snake
 
 on:
   schedule:
@@ -17,18 +17,14 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
-      # 生成 GIF 版本（更稳定，无越界问题）
+      # 生成 GIF（蛇在格子内，无越界）
       - name: Generate Snake GIF
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.gif
-            dist/github-snake.svg?palette=github-light
-            dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
@@ -36,6 +32,6 @@ jobs:
           target_branch: output
           build_dir: dist
           keep_history: false
-          commit_message: "Update snake animation [skip ci]"
+          commit_message: "Update snake [skip ci]"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
