@@ -25,7 +25,7 @@ Hi! I'm **Siyuan Chen (陈思远)**, a second-year undergraduate student majorin
 
 My research interests focus on **LLM-based Multi-Agent Systems**, **Automated Scientific Hypothesis Generation (ASHG)**, and **Knowledge Graph-enhanced Reasoning**. I am currently leading the **FIG-MAC** project — a Fine-grained Inspiration Graph-empowered Multi-Agent Collaboration framework for ASHG, with a paper under review at **ACL (CCF-A)**.
 
-‼️ I am actively seeking **research internship opportunities** and **CS / AI PhD positions (Fall 2026 / 2027 entry)**. If you are interested in my research, I would be very happy to connect!
+I am actively seeking **research internship opportunities** and **CS / AI PhD positions (2027 Fall)**. If you are interested in my research, I would be very happy to connect!
 
 </div>
 
