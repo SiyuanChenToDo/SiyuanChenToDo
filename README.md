@@ -36,20 +36,20 @@ Currently, I am leading the **FIG-MAC** project — a **Fine-grained Inspiration
 Our work explores how structured multi-agent collaboration, inspiration graph modeling, and iterative reasoning can improve the generation of novel scientific hypotheses.
 
 Recent works include:
-- 📄 **FIG-MAC** for scientific hypothesis generation *(under review at ECML-PKDD / CCF-B)*
-- 📄 multimodal comic reading-order reasoning *(under review at NLPCC / CCF-C)*
-- 📄 Knowledge graph + agent-based scientific discovery system for bioinformatics *(under review at EMNLP / CCF-B)*
+📄 **FIG-MAC** for scientific hypothesis generation *(under review at ECML-PKDD / CCF-B)*
+📄 multimodal comic reading-order reasoning *(under review at NLPCC / CCF-C)*
+📄 Knowledge graph + agent-based scientific discovery system for bioinformatics *(under review at EMNLP / CCF-B)*
 
 I am actively seeking:
 
 🎓 **2027 Fall PhD / Direct PhD Opportunities**  
 🤝 **Research Collaborations & Visiting Research Internships**  
 🏛️ Opportunities in:
-- LLM Agents
-- AI4Science
-- Scientific Discovery
-- Knowledge Graphs
-- Reasoning & Retrieval-Augmented Generation (RAG)
+LLM Agents
+AI4Science
+Scientific Discovery
+Knowledge Graphs
+Reasoning & Retrieval-Augmented Generation (RAG)
 
 I would be very happy to connect with researchers and collaborators sharing similar interests!
 
