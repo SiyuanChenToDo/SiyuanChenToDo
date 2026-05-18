@@ -21,11 +21,69 @@
 
 <div align="center">
 
-Hi! I'm **Siyuan Chen (陈思远)**, a second-year undergraduate student majoring in Artificial Intelligence at **Huazhong Agricultural University** (HZAU, 211 & Double First-Class), ranked **3rd / 58** in my cohort.
+### 👋 About Me
 
-My research interests focus on **LLM-based Multi-Agent Systems**, **Automated Scientific Hypothesis Generation (ASHG)**, and **Knowledge Graph-enhanced Reasoning**. I am currently leading the **FIG-MAC** project — a Fine-grained Inspiration Graph-empowered Multi-Agent Collaboration framework for ASHG, with a paper under review at **ACL (CCF-A)**.
+<div align="center">
 
-I am actively seeking **research internship opportunities** and **CS / AI PhD positions (2027 Fall)**. If you are interested in my research, I would be very happy to connect!
+Hi! I'm **Siyuan Chen (陈思远)**, an undergraduate student majoring in **Artificial Intelligence** at **Huazhong Agricultural University (HZAU, 211 & Double First-Class University)**.  
+Currently ranked **Top 5% (2/52)** with a GPA of **3.72/4.0**.
+
+My research focuses on:
+
+🧠 **LLM-based Multi-Agent Systems**  
+🔬 **Automated Scientific Hypothesis Generation (ASHG)**  
+🕸️ **Knowledge Graph-enhanced Reasoning & Retrieval**  
+📚 **AI for Scientific Discovery (AI4Research)**  
+🎭 **Multimodal Understanding & Reasoning**
+
+Currently, I am leading the **FIG-MAC** project — a **Fine-grained Inspiration Graph Empowered Multi-Agent Collaboration** framework for automated scientific discovery.  
+Our work explores how structured multi-agent collaboration, inspiration graph modeling, and iterative reasoning can improve the generation of novel scientific hypotheses.
+
+Recent works include:
+- 📄 **FIG-MAC** for scientific hypothesis generation *(under review at ECML-PKDD / CCF-B)*
+- 📄 multimodal comic reading-order reasoning *(under review at NLPCC / CCF-C)*
+- 📄 Knowledge graph + agent-based scientific discovery system for bioinformatics *(under review at EMNLP / CCF-B)*
+
+I am actively seeking:
+
+🎓 **2027 Fall PhD / Direct PhD Opportunities**  
+🤝 **Research Collaborations & Visiting Research Internships**  
+🏛️ Opportunities in:
+- LLM Agents
+- AI4Science
+- Scientific Discovery
+- Knowledge Graphs
+- Reasoning & Retrieval-Augmented Generation (RAG)
+
+I would be very happy to connect with researchers and collaborators sharing similar interests!
+
+</div>
+
+---
+
+### 🔥 Current Research Interests
+
+- Multi-Agent Collaboration & Agentic AI
+- Automated Scientific Discovery
+- Inspiration Graph & Knowledge Evolution Modeling
+- Retrieval-Augmented Generation (RAG)
+- Scientific Reasoning with LLMs
+- Multimodal Reasoning
+- AI for Bioinformatics
+
+---
+
+### 🏆 Selected Highlights
+
+- 🥇 National First Prize, China University Robot Competition
+- 🥇 National First Prize, “Si Zu Mo Tai” Quadruped Robot Competition
+- 📄 Multiple papers under review at CCF conferences
+- 🧪 Leading several AI4Science & multi-agent research projects
+
+---
+
+
+> Open to research collaborations, internships, and 2027 Fall PhD opportunities.
 
 </div>
 
