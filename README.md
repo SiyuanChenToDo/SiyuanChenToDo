@@ -32,6 +32,8 @@ My research focuses on:
 📚 **AI for Scientific Discovery (AI4Research)**  
 🎭 **Multimodal Understanding & Reasoning**
 
+</div>
+
 Currently, I am leading the **FIG-MAC** project — a **Fine-grained Inspiration Graph Empowered Multi-Agent Collaboration** framework for automated scientific discovery.  
 Our work explores how structured multi-agent collaboration, inspiration graph modeling, and iterative reasoning can improve the generation of novel scientific hypotheses.
 
