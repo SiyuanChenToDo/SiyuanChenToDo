@@ -21,10 +21,6 @@
 
 <div align="center">
 
-### 👋 About Me
-
-<div align="center">
-
 Hi! I'm **Siyuan Chen (陈思远)**, an undergraduate student majoring in **Artificial Intelligence** at **Huazhong Agricultural University (HZAU, 211 & Double First-Class University)**.  
 Currently ranked **Top 5% (2/52)** with a GPA of **3.72/4.0**.
 
@@ -59,31 +55,7 @@ I would be very happy to connect with researchers and collaborators sharing simi
 
 </div>
 
----
-
-### 🔥 Current Research Interests
-
-- Multi-Agent Collaboration & Agentic AI
-- Automated Scientific Discovery
-- Inspiration Graph & Knowledge Evolution Modeling
-- Retrieval-Augmented Generation (RAG)
-- Scientific Reasoning with LLMs
-- Multimodal Reasoning
-- AI for Bioinformatics
-
----
-
-### 🏆 Selected Highlights
-
-- 🥇 National First Prize, China University Robot Competition
-- 🥇 National First Prize, “Si Zu Mo Tai” Quadruped Robot Competition
-- 📄 Multiple papers under review at CCF conferences
-- 🧪 Leading several AI4Science & multi-agent research projects
-
----
-
-
-> Open to research collaborations, internships, and 2027 Fall PhD opportunities.
+I am actively seeking **research internship opportunities** and **CS / AI PhD positions (2027 Fall)**. If you are interested in my research, I would be very happy to connect!
 
 </div>
 
