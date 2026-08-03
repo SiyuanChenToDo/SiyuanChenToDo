@@ -1,13 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/main/assets/banner-header.svg" alt="Siyuan Chen"/>
+<!-- 动态波浪banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,30&height=180&section=header&text=SiyuanChenToDo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Developer%20%7C%20Algorithm%20Engineer%20%7C%20LLM%20Enthusiast&descSize=18&descAlignY=55"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Georgia&weight=500&size=22&duration=3000&pause=1000&color=C9A86A&center=true&vCenter=true&repeat=true&width=640&height=40&lines=Hi%2C+I'm+Siyuan+Chen+%E9%99%88%E6%80%9D%E8%BF%9C;LLM+Agents+%C2%B7+AI4Science+%C2%B7+Knowledge+Graphs;Towards+machines+that+can+do+science.)](https://git.io/typing-svg)
+<!-- 打字动画 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Hi%2C%20I'm%20SiyuanChenToDo;AI%20Developer%20%26%20Algorithm%20Engineer;Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20LLMs)](https://git.io/typing-svg)
 
+<!-- 社交媒体徽章 -->
 <p>
-  <a href="https://github.com/SiyuanChenToDo"><img src="https://img.shields.io/badge/GitHub-SiyuanChenToDo-1B2A4E?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SiyuanChenToDo.SiyuanChenToDo&left_color=%231B2A4E&right_color=%23C9A86A"/>
+  <a href="https://github.com/SiyuanChenToDo"><img src="https://img.shields.io/badge/GitHub-SiyuanChenToDo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=SiyuanChenToDo.SiyuanChenToDo&left_color=%2300D9FF&right_color=%230099FF"/>
 
 </div>
 
@@ -17,62 +21,111 @@
 
 <div align="center">
 
-I'm **Siyuan Chen (陈思远)**, an undergraduate student majoring in **Artificial Intelligence** at
-**Huazhong Agricultural University (HZAU, 211 & Double First-Class)** — ranked **Top 5% (2/52)** with a GPA of **3.72/4.0**.
+Hi! I'm **Siyuan Chen (陈思远)**, an undergraduate student majoring in **Artificial Intelligence** at **Huazhong Agricultural University (HZAU, 211 & Double First-Class University)**.  
+Currently ranked **Top 5% (2/52)** with a GPA of **3.72/4.0**.
 
-I lead **FIG-MAC**, a fine-grained inspiration graph empowered multi-agent collaboration framework
-for automated scientific discovery — exploring how structured agent collaboration, inspiration
-graph modeling, and iterative reasoning can generate genuinely novel scientific hypotheses.
+My research focuses on:
 
-🎓 Seeking **2027 Fall PhD / Direct-PhD opportunities** · 🤝 **Research collaborations & visiting internships**
+🧠 **LLM-based Multi-Agent Systems**  
+🔬 **Automated Scientific Hypothesis Generation (ASHG)**  
+🕸️ **Knowledge Graph-enhanced Reasoning & Retrieval**  
+📚 **AI for Scientific Discovery (AI4Research)**  
+🎭 **Multimodal Understanding & Reasoning**
+
+</div>
+
+Currently, I am leading the **FIG-MAC** project — a **Fine-grained Inspiration Graph Empowered Multi-Agent Collaboration** framework for automated scientific discovery.  
+Our work explores how structured multi-agent collaboration, inspiration graph modeling, and iterative reasoning can improve the generation of novel scientific hypotheses.
+
+Recent works include:
+- 📄 **FIG-MAC** for scientific hypothesis generation *(under review at ECML-PKDD / CCF-B)*
+- 📄 multimodal comic reading-order reasoning *(under review at NLPCC / CCF-C)*
+- 📄 Knowledge graph + agent-based scientific discovery system for bioinformatics *(under review at EMNLP / CCF-B)*
+
+I am actively seeking:
+
+🎓 **2027 Fall PhD / Direct PhD Opportunities**  
+🤝 **Research Collaborations & Visiting Research Internships**  
+🏛️ Opportunities in:
+LLM Agents
+AI4Science
+Scientific Discovery
+Knowledge Graphs
+Reasoning & Retrieval-Augmented Generation (RAG)
+
+</div>
+
+I am actively seeking **research internship opportunities** and **CS / AI PhD positions (2027 Fall)**. If you are interested in my research, I would be very happy to connect!
 
 </div>
 
 ---
 
-### 🔬 Research Interests
+### 🐍 Contribution Snake
 
 <div align="center">
-
-<img src="https://img.shields.io/badge/LLM--based_Multi--Agent_Systems-1B2A4E?style=flat-square"/>
-<img src="https://img.shields.io/badge/Automated_Scientific_Discovery-C9A86A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Knowledge_Graphs-1B2A4E?style=flat-square"/>
-<img src="https://img.shields.io/badge/Reasoning_%26_RAG-C9A86A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Multimodal_Understanding-1B2A4E?style=flat-square"/>
-
+  <!-- 强制刷新：添加时间戳参数避免缓存 -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/output/github-snake-dark.svg?v=2" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/output/github-snake.svg?v=2" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/output/github-snake-dark.svg?v=2" />
+  </picture>
 </div>
 
 ---
 
-### 📚 Publications
-
-| # | Paper | Venue | Status |
-|---|-------|-------|--------|
-| 1 | **FIG-MAC: Fine-grained Inspiration Graph Empowered Multi-Agent Collaboration for Automated Scientific Discovery** | ECML-PKDD · CCF-B | 🟡 Under Review |
-| 2 | **Reading Between the Panels: Structured Multimodal Reasoning for Comic Narrative Understanding** | NLPCC · CCF-C | 🟡 Under Review |
-| 3 | **Knowledge Graph-enhanced Agent Framework for Scientific Discovery in Bioinformatics** | EMNLP · CCF-B | 🟡 Under Review |
-
-> 📌 *Manuscripts and code will be released upon acceptance.*
-
----
-
-### 🚀 Selected Projects
-
-| Project | Description |
-|---------|-------------|
-| [FIG-MAC](https://github.com/SiyuanChenToDo/FIG-MAC-Fine-grained-Inspiration-Graph-Empowered-Multi-Agent-Collaboration-for-Automated-Scientific) | Multi-agent collaboration framework for automated scientific hypothesis generation |
-| [Reading Between the Panels](https://github.com/SiyuanChenToDo/Reading-Between-the-Panels-Structured-Multimodal-Reasoning-for-Comic-Narrative-Understanding) | Structured multimodal reasoning for comic narrative understanding |
-| [Human Evaluation Website](https://github.com/SiyuanChenToDo/Human-Evaluation-Website) | Web platform for human evaluation of model outputs |
-
----
-
-### 🌿 Beyond Research
+### 💻 Tech Stack
 
 <div align="center">
 
-🏀 &nbsp;·&nbsp; 📷 &nbsp;·&nbsp; 📖 &nbsp;·&nbsp; ✈️
+**Programming Languages**
 
-*这一栏留给科研之外的我 —— 持续更新中…*
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+
+**AI / Machine Learning**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-4285F4?style=flat-square&logo=google&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**Data Science & Analytics**
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**Deep Learning & NLP**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=llama&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logo=python&logoColor=white)
+
+**MLOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Cloud & GPU Computing**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
 
 </div>
 
@@ -82,24 +135,14 @@ graph modeling, and iterative reasoning can generate genuinely novel scientific 
 
 <div align="center">
 
+<!-- 上：Profile Summary Cards（已配置工作流，更稳定） -->
 <img width="60%" src="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/main/profile-summary-card-output/default/3-stats.svg" />
 
 <br/><br/>
 
+<!-- 下：连续贡献统计 -->
 <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=SiyuanChenToDo&hide_border=true&theme=default" />
 
-</div>
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/output/github-snake-dark.svg?v=2" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/output/github-snake.svg?v=2" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/output/github-snake-dark.svg?v=2" />
-  </picture>
 </div>
 
 ---
@@ -110,12 +153,12 @@ graph modeling, and iterative reasoning can generate genuinely novel scientific 
 
 <p>
   <a href="https://github.com/SiyuanChenToDo/SiyuanChenToDo/issues">
-    <img src="https://img.shields.io/badge/GitHub-联系我-1B2A4E?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-联系我-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 **If you find this helpful, please ⭐ Star!**
 
-<img width="100%" src="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/main/assets/banner-footer.svg" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,30&height=100&section=footer"/>
 
 </div>
