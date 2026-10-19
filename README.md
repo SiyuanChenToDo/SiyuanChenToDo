@@ -25,7 +25,7 @@
 
 Hi! I'm **Siyuan Chen (陈思远)**, an AI undergraduate at **Huazhong Agricultural University (HZAU, 211 & Double First-Class University)** and an incoming master's student at **Huazhong University of Science and Technology (HUST)**.
 
-🎓 **B.Eng. in Artificial Intelligence**, HZAU · 2023.9 – 2027.6 · **GPA 3.68/4.0** · **Rank 5/54**  
+🎓 **B.Eng. in Artificial Intelligence**, HZAU · 2023.9 – 2027.6  
 🎯 **Incoming M.Sc. Student**, HUST · 2027.9
 
 My research focuses on:
@@ -42,32 +42,69 @@ My research focuses on:
 
 ### 📄 Research Highlights
 
-| Work | Venue / Status | Role | Topic |
-| --- | --- | --- | --- |
-| **FIG-MAC** | NLPCC Oral (CCF-C) | First author | Fine-grained inspiration graph + multi-agent scientific hypothesis generation |
-| **BnHypo** | EMNLP Findings (CCF-B) → resubmitted to ACL 2027 | First author | Knowledge-graph-driven mechanistic hypothesis generation for *Brassica napus* |
-| **MemeScope** | EMNLP Main (CCF-B) | Second author | Pragmatic reasoning & causal localization in multimodal LLMs |
-| **ACA / EGMS** | Targeting ICLR 2027 | First author · NTU research intern | Agent creativity benchmark & evidence-guided architecture search |
-| **SIG-R1** | Targeting ICLR 2027 | First author · Shanghai AI-Finance Institute | Self-evolving graph + Agentic RL for multi-hop QA |
-| **Comic narrative understanding** | Under review at NLPCC | — | Structured multimodal reasoning across comic panels |
+| Work | Venue | Topic |
+| --- | --- | --- |
+| **FIG-MAC** | NLPCC Oral (CCF-C) | Fine-grained inspiration graph + multi-agent scientific hypothesis generation |
+| **BnHypo** | EMNLP Findings (CCF-B) | Knowledge-graph-driven mechanistic hypothesis generation for *Brassica napus* |
+| **MemeScope** | EMNLP Main (CCF-B) | Pragmatic reasoning & causal localization in multimodal LLMs |
 
 > Hubei Provincial Undergraduate Innovation Project — rated **Excellent** (PI, BnHypo).
 
 ---
 
-### 🌱 Open Source Contributions
+### 🌱 Open Source · 开源贡献
 
-In the past year: **192 commits** · **12 pull requests** · **4 issues** · **3 PRs merged**.
+<div align="center">
 
-| Repository | Stars | Contributions |
-| --- | ---: | --- |
-| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 92.5k | 1 merged PR — retryable-error handling in the harness |
-| [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 17.7k | 2 merged PRs — skill inventory parsing & Codex invocation-policy audit |
-| [deepchem/deepchem](https://github.com/deepchem/deepchem) | — | Open PR + issue — multi-channel voxel feature vectors |
-| [Future-House/paper-qa](https://github.com/Future-House/paper-qa) | — | 2 PRs — answer-source config refactor & verification fix |
-| [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) | — | 2 PRs — MCP content ordering & verification |
-| [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | — | 1 PR — cache snapshot validation |
-| [EmilLindfors/a2a-rs](https://github.com/EmilLindfors/a2a-rs) | — | 1 open PR — sub-millisecond retry backoff precision |
+<!-- 年度贡献数据 -->
+<a href="https://github.com/SiyuanChenToDo">
+  <img src="https://img.shields.io/badge/192-Commits-00D9FF?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" alt="192 commits" />
+  <img src="https://img.shields.io/badge/12-Pull%20Requests-7B61FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="12 pull requests" />
+  <img src="https://img.shields.io/badge/3-Merged-2EA043?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" alt="3 merged PRs" />
+  <img src="https://img.shields.io/badge/4-Issues-F0883E?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="4 issues" />
+</a>
+
+<br/><br/>
+
+<!-- 高光贡献：已合并 PR -->
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/infiniflow/ragflow/pull/21114">
+        <img src="https://img.shields.io/badge/✅%20MERGED-ragflow-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117" alt="Merged into ragflow" /><br/>
+        <img src="https://img.shields.io/github/stars/infiniflow/ragflow?style=social" alt="ragflow stars" />
+      </a>
+      <br/>
+      <sub>Reliable retry handling beyond string-prefix matching</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/pull/471">
+        <img src="https://img.shields.io/badge/✅%20MERGED-Auto--Research--in--Sleep-6A5ACD?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" alt="Merged into Auto-claude-code-research-in-sleep" /><br/>
+        <img src="https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep?style=social" alt="Auto-claude-code-research-in-sleep stars" />
+      </a>
+      <br/>
+      <sub>Skill-inventory parsing + Codex invocation-policy audit <b>(2 merged PRs)</b></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- 更多贡献仓库 -->
+<p>
+  <a href="https://github.com/deepchem/deepchem/pull/5227"><img src="https://img.shields.io/badge/deepchem-OPEN%20PR-F08C00?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" alt="deepchem open PR" /></a>
+  <a href="https://github.com/Future-House/paper-qa"><img src="https://img.shields.io/badge/paper--qa-2%20PRs-4B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" alt="paper-qa PRs" /></a>
+  <a href="https://github.com/stanfordnlp/dspy"><img src="https://img.shields.io/badge/dspy-2%20PRs-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117" alt="dspy PRs" /></a>
+  <a href="https://github.com/langchain-ai/langgraph"><img src="https://img.shields.io/badge/langgraph-1%20PR-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0D1117" alt="langgraph PR" /></a>
+  <a href="https://github.com/EmilLindfors/a2a-rs"><img src="https://img.shields.io/badge/a2a--rs-OPEN%20PR-9558B2?style=for-the-badge&logo=rust&logoColor=white&labelColor=0D1117" alt="a2a-rs open PR" /></a>
+</p>
+
+<br/>
+
+<!-- 贡献活跃度 -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SiyuanChenToDo&theme=tokyo-night&hide_border=true&area=true&height=280" alt="Contribution activity graph" />
+
+</div>
 
 ---
 
@@ -123,6 +160,11 @@ In the past year: **192 commits** · **12 pull requests** · **4 issues** · **3
 ### 📊 GitHub Stats
 
 <div align="center">
+
+<!-- GitHub Trophy -->
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=SiyuanChenToDo&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+
+<br/><br/>
 
 <!-- 上：Profile Summary Cards（已配置工作流，更稳定） -->
 <img width="60%" src="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/main/profile-summary-card-output/default/3-stats.svg" />
