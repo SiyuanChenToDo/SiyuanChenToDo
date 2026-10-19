@@ -1,14 +1,16 @@
 <div align="center">
 
 <!-- 动态波浪banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,30&height=180&section=header&text=SiyuanChenToDo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Developer%20%7C%20Algorithm%20Engineer%20%7C%20LLM%20Enthusiast&descSize=18&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,30&height=180&section=header&text=SiyuanChenToDo&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Researcher%20%7C%20LLM%20Agents%20%7C%20AI4Science&descSize=18&descAlignY=55"/>
 
 <!-- 打字动画 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=600&height=40&lines=Hi%2C%20I'm%20SiyuanChenToDo;AI%20Developer%20%26%20Algorithm%20Engineer;Machine%20Learning%20%7C%20Deep%20Learning%20%7C%20LLMs)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&repeat=true&width=700&height=40&lines=Hi%2C%20I'm%20Siyuan%20Chen;Incoming%20M.Sc.%20%40%20HUST%20(2027);LLM%20Agents%20%7C%20Graph%20Reasoning%20%7C%20AI4Science)](https://git.io/typing-svg)
 
 <!-- 社交媒体徽章 -->
 <p>
   <a href="https://github.com/SiyuanChenToDo"><img src="https://img.shields.io/badge/GitHub-SiyuanChenToDo-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://siyuanchentodo.github.io"><img src="https://img.shields.io/badge/Homepage-siyuanchentodo.github.io-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+  <a href="mailto:2637427015@qq.com"><img src="https://img.shields.io/badge/Email-2637427015%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=SiyuanChenToDo.SiyuanChenToDo&left_color=%2300D9FF&right_color=%230099FF"/>
@@ -21,43 +23,51 @@
 
 <div align="center">
 
-Hi! I'm **Siyuan Chen (陈思远)**, an undergraduate student majoring in **Artificial Intelligence** at **Huazhong Agricultural University (HZAU, 211 & Double First-Class University)**.  
-Currently ranked **Top 5% (2/52)** with a GPA of **3.72/4.0**.
+Hi! I'm **Siyuan Chen (陈思远)**, an AI undergraduate at **Huazhong Agricultural University (HZAU, 211 & Double First-Class University)** and an incoming master's student at **Huazhong University of Science and Technology (HUST)**.
+
+🎓 **B.Eng. in Artificial Intelligence**, HZAU · 2023.9 – 2027.6 · **GPA 3.68/4.0** · **Rank 5/54**  
+🎯 **Incoming M.Sc. Student**, HUST · 2027.9
 
 My research focuses on:
 
 🧠 **LLM-based Multi-Agent Systems**  
 🔬 **Automated Scientific Hypothesis Generation (ASHG)**  
 🕸️ **Knowledge Graph-enhanced Reasoning & Retrieval**  
-📚 **AI for Scientific Discovery (AI4Research)**  
+📚 **AI for Scientific Discovery (AI4Science)**  
 🎭 **Multimodal Understanding & Reasoning**
 
 </div>
 
-Currently, I am leading the **FIG-MAC** project — a **Fine-grained Inspiration Graph Empowered Multi-Agent Collaboration** framework for automated scientific discovery.  
-Our work explores how structured multi-agent collaboration, inspiration graph modeling, and iterative reasoning can improve the generation of novel scientific hypotheses.
+---
 
-Recent works include:
-- 📄 **FIG-MAC** for scientific hypothesis generation *(under review at ECML-PKDD / CCF-B)*
-- 📄 multimodal comic reading-order reasoning *(under review at NLPCC / CCF-C)*
-- 📄 Knowledge graph + agent-based scientific discovery system for bioinformatics *(under review at EMNLP / CCF-B)*
+### 📄 Research Highlights
 
-I am actively seeking:
+| Work | Venue / Status | Role | Topic |
+| --- | --- | --- | --- |
+| **FIG-MAC** | NLPCC Oral (CCF-C) | First author | Fine-grained inspiration graph + multi-agent scientific hypothesis generation |
+| **BnHypo** | EMNLP Findings (CCF-B) → resubmitted to ACL 2027 | First author | Knowledge-graph-driven mechanistic hypothesis generation for *Brassica napus* |
+| **MemeScope** | EMNLP Main (CCF-B) | Second author | Pragmatic reasoning & causal localization in multimodal LLMs |
+| **ACA / EGMS** | Targeting ICLR 2027 | First author · NTU research intern | Agent creativity benchmark & evidence-guided architecture search |
+| **SIG-R1** | Targeting ICLR 2027 | First author · Shanghai AI-Finance Institute | Self-evolving graph + Agentic RL for multi-hop QA |
+| **Comic narrative understanding** | Under review at NLPCC | — | Structured multimodal reasoning across comic panels |
 
-🎓 **2027 Fall PhD / Direct PhD Opportunities**  
-🤝 **Research Collaborations & Visiting Research Internships**  
-🏛️ Opportunities in:
-LLM Agents
-AI4Science
-Scientific Discovery
-Knowledge Graphs
-Reasoning & Retrieval-Augmented Generation (RAG)
+> Hubei Provincial Undergraduate Innovation Project — rated **Excellent** (PI, BnHypo).
 
-</div>
+---
 
-I am actively seeking **research internship opportunities** and **CS / AI PhD positions (2027 Fall)**. If you are interested in my research, I would be very happy to connect!
+### 🌱 Open Source Contributions
 
-</div>
+In the past year: **192 commits** · **12 pull requests** · **4 issues** · **3 PRs merged**.
+
+| Repository | Stars | Contributions |
+| --- | ---: | --- |
+| [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 92.5k | 1 merged PR — retryable-error handling in the harness |
+| [wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) | 17.7k | 2 merged PRs — skill inventory parsing & Codex invocation-policy audit |
+| [deepchem/deepchem](https://github.com/deepchem/deepchem) | — | Open PR + issue — multi-channel voxel feature vectors |
+| [Future-House/paper-qa](https://github.com/Future-House/paper-qa) | — | 2 PRs — answer-source config refactor & verification fix |
+| [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy) | — | 2 PRs — MCP content ordering & verification |
+| [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | — | 1 PR — cache snapshot validation |
+| [EmilLindfors/a2a-rs](https://github.com/EmilLindfors/a2a-rs) | — | 1 open PR — sub-millisecond retry backoff precision |
 
 ---
 
@@ -82,50 +92,29 @@ I am actively seeking **research internship opportunities** and **CS / AI PhD po
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
-![Julia](https://img.shields.io/badge/Julia-9558B2?style=flat-square&logo=julia&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 **AI / Machine Learning**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![JAX](https://img.shields.io/badge/JAX-4285F4?style=flat-square&logo=google&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LoRA](https://img.shields.io/badge/Fine--tuning-LoRA-6A5ACD?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG%20%2F%20GraphRAG-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Agent](https://img.shields.io/badge/Agent-LangGraph%20%2F%20Harness-0B7285?style=flat-square)
 
-**Data Science & Analytics**
+**Knowledge & Data**
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-Information%20Extraction-5B3FA3?style=flat-square)
 
-**Deep Learning & NLP**
+**Tools**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=flat-square&logo=llama&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154F5B?style=flat-square&logo=python&logoColor=white)
-
-**MLOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-**Cloud & GPU Computing**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white)
 
 </div>
 
@@ -152,12 +141,11 @@ I am actively seeking **research internship opportunities** and **CS / AI PhD po
 ### 📮 Connect with Me
 
 <p>
-  <a href="https://github.com/SiyuanChenToDo/SiyuanChenToDo/issues">
-    <img src="https://img.shields.io/badge/GitHub-联系我-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="mailto:2637427015@qq.com"><img src="https://img.shields.io/badge/Email-2637427015%40qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://siyuanchentodo.github.io"><img src="https://img.shields.io/badge/Homepage-陈思远-00D9FF?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
-**If you find this helpful, please ⭐ Star!**
+🎓 Incoming M.Sc. at **HUST** (2027.9) · 🔭 Open to **2027 Fall PhD** opportunities · 🤝 Open to **research collaborations & visiting internships**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,2,5,30&height=100&section=footer"/>
 
