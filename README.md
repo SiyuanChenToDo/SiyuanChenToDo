@@ -61,12 +61,13 @@ My research focuses on:
 
 </div>
 
-| Repository | Merged contributions |
+| Repository | Contribution |
 | --- | --- |
-| [**ragflow**](https://github.com/infiniflow/ragflow) <br/> ⭐ 92.5k | ✅ [**PR #21114**](https://github.com/infiniflow/ragflow/pull/21114) — Reliable retry-error detection beyond string-prefix matching |
-| [**Auto-claude-code-research-in-sleep**](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) <br/> ⭐ 17.7k | ✅ [**PR #471**](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/pull/471) — Skill-inventory parsing from YAML frontmatter <br/> ✅ [**PR #470**](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/pull/470) — Codex invocation-policy audit & catalog probe |
+| [**ragflow**](https://github.com/infiniflow/ragflow) · ⭐ 92.5k | ✅ [**PR #21114**](https://github.com/infiniflow/ragflow/pull/21114) — Architected a resilient retry-classification layer for the RAG harness: replaced brittle string-prefix checks with multi-signal detection, extending transient-failure coverage and hardening long-chain inference |
+| [**Auto-claude-code-research-in-sleep**](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) · ⭐ 17.7k | ✅ [**PR #471**](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/pull/471) — Eliminated tool-grant metadata parsing defects in the skill inventory <br/> ✅ [**PR #470**](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/pull/470) — Shipped Codex invocation-policy auditing and a capability-catalog probe, establishing verifiable capability boundaries for the plugin ecosystem |
 
-**Also contributed to** · [deepchem](https://github.com/deepchem/deepchem) · [dspy](https://github.com/stanfordnlp/dspy) · [langgraph](https://github.com/langchain-ai/langgraph) · [paper-qa](https://github.com/Future-House/paper-qa) · [a2a-rs](https://github.com/EmilLindfors/a2a-rs)
+**Also contributed to**  
+[deepchem](https://github.com/deepchem/deepchem) ⭐ 7.1k · [dspy](https://github.com/stanfordnlp/dspy) ⭐ 38.7k · [langgraph](https://github.com/langchain-ai/langgraph) ⭐ 43.5k · [paper-qa](https://github.com/Future-House/paper-qa) ⭐ 9.4k · [a2a-rs](https://github.com/EmilLindfors/a2a-rs) ⭐ 91
 
 ---
 
@@ -83,55 +84,44 @@ My research focuses on:
 
 ---
 
-### 💻 Tech Stack
-
-<div align="center">
-
-**Programming Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**AI / Machine Learning**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LoRA](https://img.shields.io/badge/Fine--tuning-LoRA-6A5ACD?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG%20%2F%20GraphRAG-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Agent](https://img.shields.io/badge/Agent-LangGraph%20%2F%20Harness-0B7285?style=flat-square)
-
-**Knowledge & Data**
-
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
-![BERT](https://img.shields.io/badge/BERT-Information%20Extraction-5B3FA3?style=flat-square)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=flat-square&logo=latex&logoColor=white)
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<!-- 上：Profile Summary Cards（已配置工作流，更稳定） -->
-<img width="60%" src="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/main/profile-summary-card-output/default/3-stats.svg" />
-
-<br/><br/>
-
-<!-- 下：连续贡献统计 -->
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=SiyuanChenToDo&hide_border=true&theme=default" />
-
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td width="55%" align="center" valign="top">
+      <h3>💻 Tech Stack</h3>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&amp;logo=pytorch&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&amp;logo=huggingface&amp;logoColor=black" />
+        <img src="https://img.shields.io/badge/Fine--tuning-LoRA-6A5ACD?style=flat-square" />
+        <img src="https://img.shields.io/badge/RAG%20%2F%20GraphRAG-1C3C3C?style=flat-square&amp;logo=langchain&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Agent-LangGraph%20%2F%20Harness-0B7285?style=flat-square" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&amp;logo=neo4j&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/BERT-Information%20Extraction-5B3FA3?style=flat-square" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black" />
+        <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&amp;logo=nvidia&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&amp;logo=jupyter&amp;logoColor=white" />
+        <img src="https://img.shields.io/badge/LaTeX-47A141?style=flat-square&amp;logo=latex&amp;logoColor=white" />
+      </p>
+    </td>
+    <td width="45%" align="center" valign="top">
+      <h3>📊 GitHub Stats</h3>
+      <p><img src="https://img.shields.io/badge/192-Commits-2EA44F?style=for-the-badge&amp;logo=git&amp;logoColor=white" /></p>
+      <p><img src="https://img.shields.io/badge/12-Pull%20Requests-1F6FEB?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></p>
+      <p><img src="https://img.shields.io/badge/3-Merged-8957E7?style=for-the-badge&amp;logo=git&amp;logoColor=white" /></p>
+      <p><img src="https://img.shields.io/badge/4-Issues-F0883E?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
