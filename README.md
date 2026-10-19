@@ -56,55 +56,17 @@ My research focuses on:
 
 <div align="center">
 
-<!-- 年度贡献数据 -->
-<a href="https://github.com/SiyuanChenToDo">
-  <img src="https://img.shields.io/badge/192-Commits-00D9FF?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" alt="192 commits" />
-  <img src="https://img.shields.io/badge/12-Pull%20Requests-7B61FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="12 pull requests" />
-  <img src="https://img.shields.io/badge/3-Merged-2EA043?style=for-the-badge&logo=git&logoColor=white&labelColor=0D1117" alt="3 merged PRs" />
-  <img src="https://img.shields.io/badge/4-Issues-F0883E?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="4 issues" />
-</a>
-
-<br/><br/>
-
-<!-- 高光贡献：已合并 PR -->
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/infiniflow/ragflow/pull/21114">
-        <img src="https://img.shields.io/badge/✅%20MERGED-ragflow-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=0D1117" alt="Merged into ragflow" /><br/>
-        <img src="https://img.shields.io/github/stars/infiniflow/ragflow?style=social" alt="ragflow stars" />
-      </a>
-      <br/>
-      <sub>Reliable retry handling beyond string-prefix matching</sub>
-    </td>
-    <td align="center" width="50%">
-      <a href="https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/pull/471">
-        <img src="https://img.shields.io/badge/✅%20MERGED-Auto--Research--in--Sleep-6A5ACD?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" alt="Merged into Auto-claude-code-research-in-sleep" /><br/>
-        <img src="https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep?style=social" alt="Auto-claude-code-research-in-sleep stars" />
-      </a>
-      <br/>
-      <sub>Skill-inventory parsing + Codex invocation-policy audit <b>(2 merged PRs)</b></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- 更多贡献仓库 -->
-<p>
-  <a href="https://github.com/deepchem/deepchem/pull/5227"><img src="https://img.shields.io/badge/deepchem-OPEN%20PR-F08C00?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" alt="deepchem open PR" /></a>
-  <a href="https://github.com/Future-House/paper-qa"><img src="https://img.shields.io/badge/paper--qa-2%20PRs-4B8BBE?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117" alt="paper-qa PRs" /></a>
-  <a href="https://github.com/stanfordnlp/dspy"><img src="https://img.shields.io/badge/dspy-2%20PRs-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0D1117" alt="dspy PRs" /></a>
-  <a href="https://github.com/langchain-ai/langgraph"><img src="https://img.shields.io/badge/langgraph-1%20PR-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=0D1117" alt="langgraph PR" /></a>
-  <a href="https://github.com/EmilLindfors/a2a-rs"><img src="https://img.shields.io/badge/a2a--rs-OPEN%20PR-9558B2?style=for-the-badge&logo=rust&logoColor=white&labelColor=0D1117" alt="a2a-rs open PR" /></a>
-</p>
-
-<br/>
-
-<!-- 贡献活跃度 -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=SiyuanChenToDo&theme=tokyo-night&hide_border=true&area=true&height=280" alt="Contribution activity graph" />
+**192 commits** · **12 pull requests** · **3 merged** · **4 issues**  
+<sub>past 12 months · core contributor to ragflow & Auto-claude-code-research-in-sleep</sub>
 
 </div>
+
+| Repository | Merged contributions |
+| --- | --- |
+| [**ragflow**](https://github.com/infiniflow/ragflow) <br/> ⭐ 92.5k | ✅ [**PR #21114**](https://github.com/infiniflow/ragflow/pull/21114) — Reliable retry-error detection beyond string-prefix matching |
+| [**Auto-claude-code-research-in-sleep**](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) <br/> ⭐ 17.7k | ✅ [**PR #471**](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/pull/471) — Skill-inventory parsing from YAML frontmatter <br/> ✅ [**PR #470**](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/pull/470) — Codex invocation-policy audit & catalog probe |
+
+**Also contributed to** · [deepchem](https://github.com/deepchem/deepchem) · [dspy](https://github.com/stanfordnlp/dspy) · [langgraph](https://github.com/langchain-ai/langgraph) · [paper-qa](https://github.com/Future-House/paper-qa) · [a2a-rs](https://github.com/EmilLindfors/a2a-rs)
 
 ---
 
@@ -160,11 +122,6 @@ My research focuses on:
 ### 📊 GitHub Stats
 
 <div align="center">
-
-<!-- GitHub Trophy -->
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=SiyuanChenToDo&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
-
-<br/><br/>
 
 <!-- 上：Profile Summary Cards（已配置工作流，更稳定） -->
 <img width="60%" src="https://raw.githubusercontent.com/SiyuanChenToDo/SiyuanChenToDo/main/profile-summary-card-output/default/3-stats.svg" />
