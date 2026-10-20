@@ -56,7 +56,7 @@ My research focuses on:
 
 <div align="center">
 
-**192 commits** · **12 pull requests** · **3 merged** · **4 issues**  
+**199 commits** · **16 pull requests** · **4 merged** · **4 issues**  
 <sub>past 12 months · core contributor to ragflow & Auto-claude-code-research-in-sleep</sub>
 
 </div>
@@ -64,10 +64,11 @@ My research focuses on:
 | Repository | Contribution |
 | --- | --- |
 | [**ragflow**](https://github.com/infiniflow/ragflow) · ⭐ 92.5k | ✅ [**PR #21114**](https://github.com/infiniflow/ragflow/pull/21114) — Architected a resilient retry-classification layer for the RAG harness: replaced brittle string-prefix checks with multi-signal detection, extending transient-failure coverage and hardening long-chain inference |
+| [**a2a-rs**](https://github.com/EmilLindfors/a2a-rs) · ⭐ 91 | ✅ [**PR #119**](https://github.com/EmilLindfors/a2a-rs/pull/119) — Fixed a retry-policy defect in the Rust A2A framework: sub-millisecond exponential backoff rounded down to zero and retried immediately; backoff now keeps nanosecond precision, with a regression test |
 | [**Auto-claude-code-research-in-sleep**](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) · ⭐ 17.7k | ✅ [**PR #471**](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/pull/471) — Eliminated tool-grant metadata parsing defects in the skill inventory <br/> ✅ [**PR #470**](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep/pull/470) — Shipped Codex invocation-policy auditing and a capability-catalog probe, establishing verifiable capability boundaries for the plugin ecosystem |
 
 **Also contributed to**  
-[deepchem](https://github.com/deepchem/deepchem) ⭐ 7.1k · [dspy](https://github.com/stanfordnlp/dspy) ⭐ 38.7k · [langgraph](https://github.com/langchain-ai/langgraph) ⭐ 43.5k · [paper-qa](https://github.com/Future-House/paper-qa) ⭐ 9.4k · [a2a-rs](https://github.com/EmilLindfors/a2a-rs) ⭐ 91
+[deepchem](https://github.com/deepchem/deepchem) ⭐ 7.1k · [dspy](https://github.com/stanfordnlp/dspy) ⭐ 38.7k · [langgraph](https://github.com/langchain-ai/langgraph) ⭐ 43.5k · [paper-qa](https://github.com/Future-House/paper-qa) ⭐ 9.4k · [deepmd-kit](https://github.com/deepmodeling/deepmd-kit) ⭐ 2.1k · [pymatgen](https://github.com/materialsproject/pymatgen) ⭐ 2.0k · [ms-agent](https://github.com/modelscope/ms-agent) ⭐ 4.4k · [graphiti](https://github.com/getzep/graphiti) ⭐ 32.1k
 
 ---
 
@@ -115,9 +116,9 @@ My research focuses on:
     </td>
     <td width="45%" align="center" valign="top">
       <h3>📊 GitHub Stats</h3>
-      <p><img src="https://img.shields.io/badge/192-Commits-2EA44F?style=for-the-badge&amp;logo=git&amp;logoColor=white" /></p>
-      <p><img src="https://img.shields.io/badge/12-Pull%20Requests-1F6FEB?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></p>
-      <p><img src="https://img.shields.io/badge/3-Merged-8957E7?style=for-the-badge&amp;logo=git&amp;logoColor=white" /></p>
+      <p><img src="https://img.shields.io/badge/199-Commits-2EA44F?style=for-the-badge&amp;logo=git&amp;logoColor=white" /></p>
+      <p><img src="https://img.shields.io/badge/16-Pull%20Requests-1F6FEB?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></p>
+      <p><img src="https://img.shields.io/badge/4-Merged-8957E7?style=for-the-badge&amp;logo=git&amp;logoColor=white" /></p>
       <p><img src="https://img.shields.io/badge/4-Issues-F0883E?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></p>
     </td>
   </tr>
